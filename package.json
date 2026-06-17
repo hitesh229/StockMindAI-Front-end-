@@ -13,7 +13,7 @@
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "axios": "^1.6.8",
-    "lucide-react": "^0.378.0",
+    "lucide-react": "^0.468.0",
     "chart.js": "^4.4.2",
     "react-chartjs-2": "^5.2.0"
   },
