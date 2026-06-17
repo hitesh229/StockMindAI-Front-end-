@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://localhost:7026/api'; // Standard default .NET Core Web API dev address
+const API_BASE_URL = 'https://stockmindai-backend.onrender.com/api'; // Deployed .NET backend
 
 const api = axios.create({
   baseURL: API_BASE_URL,
