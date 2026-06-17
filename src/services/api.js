@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://stockmindai-backend.onrender.com/api'; // Deployed .NET backend
+const API_BASE_URL = 'https://stock-mind-ai-gray.vercel.app/'; // Python backend
 
 const api = axios.create({
   baseURL: API_BASE_URL,
