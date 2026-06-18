@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'https://stock-mind-ai-paython-beta.vercel.app/'; // Python backend
+const API_BASE_URL = 'https://stockmindai-backend.onrender.com/api'; // ASP.NET Core API gateway
 
 const api = axios.create({
   baseURL: API_BASE_URL,
